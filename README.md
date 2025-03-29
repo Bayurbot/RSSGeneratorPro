@@ -41,3 +41,6 @@ Want to improve the bot? Suggest features — I’m open to feedback!
 
 **RSS Generator Pro** — your key to automating Telegram content.  
 Click [here](https://t.me/RSSGeneratorBot) and start now! 🚀  
+
+**LICENSE**
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See the [LICENSE](LICENSE) file for details.
